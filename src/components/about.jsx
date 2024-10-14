@@ -17,11 +17,21 @@ const About = () => {
                     </p>
                     <div className="skills-list">
                         <span>JavaScript</span>
-                        <span>React</span>
+                        <span>Reactjs</span>
                         <span>Python</span>
                         <span>Django</span>
                         <span>CSS</span>
+                        <span>Bootstrap</span>
                     </div>
+                </div>
+                <div className="cv-download">
+                    <a 
+                        href="https://res.cloudinary.com/dqvewferm/image/upload/Enock_Epafra_cv_tu2fg7.pdf" 
+                        download="Enock_Epafra_CV.pdf" 
+                        className="download-btn"
+                    >
+                        Download My CV
+                    </a>
                 </div>
                 <div className="cards-container">
                     <Card
