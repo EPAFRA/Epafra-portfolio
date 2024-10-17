@@ -156,3 +156,16 @@
     0% { opacity: 0; transform: scale(0.8); }
     100% { opacity: 1; transform: scale(1); }
 }
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+    .cards-container {
+        flex-direction: column; /* Stack cards vertically */
+    }
+
+    .cards-container .card {
+        flex: 1 1 100%; /* Make cards take full width of the container */
+        max-width: 100%; /* Ensure full width on small screens */
+        margin: 10px 0; /* Add margin for spacing between stacked cards */
+    }
+}

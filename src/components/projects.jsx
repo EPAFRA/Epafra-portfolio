@@ -7,8 +7,8 @@ const Projects = () => {
     {
       title: 'Portfolio Website',
       description: 'A personal portfolio website to showcase my projects and skills.',
-      imageUrl: 'https://example.com/portfolio-image.jpg',
-      projectUrl: 'https://your-portfolio.com'
+      imageUrl: 'https://res.cloudinary.com/dqvewferm/image/upload/v1729173526/Screenshot_20241017-165721_Brave_n1n2qt.jpg',
+      projectUrl: 'https://epafra-portfolio.netlify.app/'
     },
     {
       title: 'E-commerce Website',
