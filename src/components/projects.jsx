@@ -7,19 +7,19 @@ const Projects = () => {
     {
       title: 'Portfolio Website',
       description: 'A personal portfolio website to showcase my projects and skills.',
-      imageUrl: 'https://res.cloudinary.com/dqvewferm/image/upload/v1729173526/Screenshot_20241017-165721_Brave_n1n2qt.jpg',
+      imageUrl: 'https://res.cloudinary.com/dqvewferm/image/upload/v1729175277/portfolio_xlxhpj.png',
       projectUrl: 'https://epafra-portfolio.netlify.app/'
     },
     {
-      title: 'E-commerce Website',
-      description: 'An e-commerce website built with React and Django, featuring product listings, cart, and checkout.',
-      imageUrl: 'https://example.com/ecommerce-image.jpg',
-      projectUrl: 'https://your-ecommerce.com'
+      title: 'Aurorawave Website',
+      description: 'A website built with React , featuring product listings as well as more details about a company and how it operates and services they provide.',
+      imageUrl: 'https://res.cloudinary.com/dqvewferm/image/upload/v1729177543/aurorawave_labs_ploid7.png',
+      projectUrl: 'https://aurorowave.vercel.app/'
     },
     {
       title: 'Blog Application',
       description: 'A full-featured blog application with user authentication, comment section, and post categories.',
-      imageUrl: 'https://res.cloudinary.com/dqvewferm/image/upload/v1726632444/blogs_app_pic_mf7rjj.png',
+      imageUrl: 'https://res.cloudinary.com/dqvewferm/image/upload/v1726129435/logo_gdeqmm.jpg',
       projectUrl: 'https://your-blog.com'
     },
     // Add more projects as needed
